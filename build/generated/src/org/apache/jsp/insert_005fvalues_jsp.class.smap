@@ -1,0 +1,10 @@
+SMAP
+insert_005fvalues_jsp.java
+JSP
+*S JSP
+*F
++ 0 insert_values.jsp
+insert_values.jsp
+*L
+5,27:44
+*E
